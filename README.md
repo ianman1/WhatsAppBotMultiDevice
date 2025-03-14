@@ -2,7 +2,7 @@
 
 Our WhatsApp bot project allows users to easily perform various actions such as downloading songs, getting lyrics, creating memes, and more. Some of the available commands include: downloading songs, getting lyrics, creating stickers, converting media types, searching for images, converting videos to audio, getting facts, showing news and horoscopes, getting quotes, and more. Additionally, users can download media from Instagram and Facebook, and get the gender percentage based on a name. Our bot also has a dictionary feature and can translate text to a specified language. Give it a try and see all that it can do!
 
-## Commands List
+## Commands Lists
 
 | **Group Commands**      | **Explanation**                                               | **Example**                                | **Working/Not Working** |
 | :---------------------: | :-----------------------------------------------------------: | :----------------------------------------: | :---------------------: |
